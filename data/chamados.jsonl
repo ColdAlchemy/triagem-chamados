@@ -1,0 +1,750 @@
+{"texto": "Oi, pessoal, o som do carregador falha de vez em quando Aguardo retorno.", "classe": "defeito"}
+{"texto": "Olá, seria ótimo ter modo escuro no painel", "classe": "sugestao"}
+{"texto": "Bom dia, adorei o atendimento, parabéns à equipe Aguardo retorno.", "classe": "sugestao"}
+{"texto": "preciso redefinir a senha do app Aguardo retorno.", "classe": "acesso"}
+{"texto": "o relógio esquenta demais e desliga sozinho Urgente!", "classe": "defeito"}
+{"texto": "Olá, cancelei a assinatura mas continuam cobrando R$ 15,00 Urgente!", "classe": "cobranca"}
+{"texto": "Olá, a fatura veio com um valor diferente do combinado", "classe": "cobranca"}
+{"texto": "aparece um erro ao salvar e perco tudo", "classe": "defeito"}
+{"texto": "qeuro o estorno da cobrança de R$ 49,90 Urgente!", "classe": "cobranca"}
+{"texto": "Boa tarde, a fatura veio com um valor diferente do combinado Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Olá, paguei o boleto e o pagamento não foi baixado Também podiam incluir um filtro por preço na busca.", "classe": "cobranca"}
+{"texto": "Oi, pessoal, cancelei a assinatura mas continuam cobrando R$ 300 Outra coisa: a bateria do tablet descarrega em poucas horas.", "classe": "cobranca"}
+{"texto": "Prezados, a fatura veio com um valor diferente do combinado Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Prezados, o tablet esquenta demais e desliga sozinho", "classe": "defeito"}
+{"texto": "não reconheço essa cobrança no meu extrato Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Bom dia, o aplicativo diz que meu usuário não existe", "classe": "acesso"}
+{"texto": "o prazo de entrega para Recife passou e nada de chegar", "classe": "entrega"}
+{"texto": "o código de verificação não chegou no meu celular", "classe": "acesso"}
+{"texto": "Olá, o celular chegou com a tela rachada", "classe": "defeito"}
+{"texto": "Olá, chegou só uma parte do pedido Aguardo retorno.", "classe": "entrega"}
+{"texto": "Oi, pessoal, preciso redefinir a senha do site Também a bateria do relógio descarrega em poucas horas. Aguardo retorno.", "classe": "acesso"}
+{"texto": "Prezados, o código de verificação não chegou no meu celular Aliás, quero alterar o endereço de entrega do carregador. Obrigado.", "classe": "acesso"}
+{"texto": "Olá, fui cobrado duas vezes R$ 120 no cartão Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Boa tarde, o entregador não encontrou minha casa em Goiânia Também fui cobrado duas vezes R$ 15,00 no cartão.", "classe": "entrega"}
+{"texto": "Oi, pessoal, meu login foi bloqueado depois de várias tentativas Também podaim incluir um filtro por preço na busca. Aguardo retorno.", "classe": "acesso"}
+{"texto": "Prezados, quero alterar o endereço de entrega do celular", "classe": "entrega"}
+{"texto": "Prezados, a bateria do fone descarrega em poucas horas", "classe": "defeito"}
+{"texto": "Boa tarde, o painel poderia exportar relatórios em planilha Urgente!", "classe": "sugestao"}
+{"texto": "Olá, o desconto prometido não apareceu na fatura Ah, e quero alterar o endereço de entrega do fone. Urgente!", "classe": "cobranca"}
+{"texto": "o prazo de entrega para Curitiba passou e nada de chegar Podem me ajudar?", "classe": "entrega"}
+{"texto": "Olá, aparece um erro ao salvar e perco tudo Ah, e sugiro avisar por mensagem quando o pedido sair para entrega.", "classe": "defeito"}
+{"texto": "Oi, pessoal, muito bom o fone, só faltou vir com capa Aliás, quero alterar o endereço de entrega do tablet. Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Prezados, sugiro avisar por mensagem quando o pedido sair para entrega Também quero alterar o endereço de entrega do relógio.", "classe": "sugestao"}
+{"texto": "o fone esquenta demais e desliga sozinho Obrigado.", "classe": "defeito"}
+{"texto": "Olá, o código de verificação não chegou no meu celular", "classe": "acesso"}
+{"texto": "Prezados, podiam incluir um filtro por preço na busca", "classe": "sugestao"}
+{"texto": "Olá, como troco o e-mail cadastrado na conta Também queria que o painel lembrasse meu usuário no celular. Urgente!", "classe": "acesso"}
+{"texto": "Boa tarde, o entregador não encontrou minha casa em Curitiba", "classe": "entrega"}
+{"texto": "gostaria de poder pagar com pix tabmém", "classe": "sugestao"}
+{"texto": "o celular chegou com a tela rachada", "classe": "defeito"}
+{"texto": "Bom dia, minha conta foi desconectada e não consigo acessar de novo", "classe": "acesso"}
+{"texto": "Bom dia, esqueci a senha e o e-mail de recuperação não chega Aguardo retorno.", "classe": "acesso"}
+{"texto": "Bom dia, adorei o atendimento, parabéns à equipe Urgente!", "classe": "sugestao"}
+{"texto": "Olá, o som do notebook falha de vez em quando Aguardo retorno.", "classe": "defeito"}
+{"texto": "o tablet esquenta demais e desliga sozinho Obrigado.", "classe": "defeito"}
+{"texto": "Olá, o painel diz que meu usuário não existe Outra coisa: o som do fone falha de vez em quando. Aguardo retorno.", "classe": "acesso"}
+{"texto": "Oi, pessoal, o notebook esquenta demais e desliga sozinho Aliás, esqueci a senha e o e-mail de recuperação não chega.", "classe": "defeito"}
+{"texto": "Prezados, paguei o boleto e o pagamento não foi baixado Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Prezados, o entregador não encontrou minha casa em Recife Urgente!", "classe": "entrega"}
+{"texto": "Oi, pessoal, aparece um erro ao salvar e perco tudo", "classe": "defeito"}
+{"texto": "Prezados, o entregador não encontrou minha casa em Curitiba Urgente!", "classe": "entrega"}
+{"texto": "Prezados, a entrega foi fieta no endereço errado Podem me ajudar?", "classe": "entrega"}
+{"texto": "Bom dia, o notebook chegou com a tela rachada Ah, e adorei o atendimento, parabéns à equipe. Aguardo retorno.", "classe": "defeito"}
+{"texto": "Oi, pessoal, queria que o painel lembrasse meu usuráio no celular Outra coisa: aparece um erro ao salvar e perco tudo. Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o prazo de entrega para Curitiba passou e nada de chegar", "classe": "entrega"}
+{"texto": "o painel poderia exportar relatórios em planilha", "classe": "sugestao"}
+{"texto": "Olá, meu login foi bloqueado depois de várias tentativas", "classe": "acesso"}
+{"texto": "Olá, o site diz que meu usuário não existe", "classe": "acesso"}
+{"texto": "Prezados, não reconheço essa cobrança no meu extrato Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Boa tarde, como troco o e-mail cadatsrado na conta Aguardo retorno.", "classe": "acesso"}
+{"texto": "Boa tarde, o pedido consta como entregue mas não recebi Outra coisa: o código de verificação não chegou no meu celular.", "classe": "entrega"}
+{"texto": "o painel diz que meu usuário não existe Obrigado.", "classe": "acesso"}
+{"texto": "cancelei a assinatura mas continuam cobrando R$ 300 Aliás, o aplicativo trava toda vez que tento abrir. Urgente!", "classe": "cobranca"}
+{"texto": "Bom dia, minha conta foi desconectada e não consigo acessar de novo Aguardo retorno.", "classe": "acesso"}
+{"texto": "Boa tarde, chegou só uma parte do pedido Podem me ajudar?", "classe": "entrega"}
+{"texto": "Prezados, cancelei a assinatura mas continuam cobrando R$ 89,90", "classe": "cobranca"}
+{"texto": "o entregador não encontrou minha casa em Imperatriz Aliás, podiam incluir um filtro por preço na busca.", "classe": "entrega"}
+{"texto": "Boa tarde, preciso redefinir a senha do app Podem me ajudar?", "classe": "acesso"}
+{"texto": "Oi, pessoal, seira ótimo ter modo escuro no app", "classe": "sugestao"}
+{"texto": "Prezados, como troco o e-mail cadastrado na conta Obrigado.", "classe": "acesso"}
+{"texto": "Bom dia, quero o estorno da cobrança de R$ 15,00", "classe": "cobranca"}
+{"texto": "Boa tarde, fui cobrado duas vezes R$ 120 no cartão", "classe": "cobranca"}
+{"texto": "Bom dia, quero o estorno da cobrança de R$ 300 Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Prezados, a entrega foi feita no endereço errdao", "classe": "entrega"}
+{"texto": "Boa tarde, o som do fone falha de vez em quando", "classe": "defeito"}
+{"texto": "Prezados, o som do tablet falha de vez em quando Podem me ajudar?", "classe": "defeito"}
+{"texto": "Bom dia, chegou só uma parte do pedido", "classe": "entrega"}
+{"texto": "minha conta foi desconectada e não consigo acessar de novo Aguardo retorno.", "classe": "acesso"}
+{"texto": "Olá, o rastreio está parado há 5 dias Podem me ajudar?", "classe": "entrega"}
+{"texto": "Bom dia, o código de verificação não cehgou no meu celular", "classe": "acesso"}
+{"texto": "Oi, pessoal, quero o estorno da cobrança de R$ 300 Outra coisa: o entergador não encontrou minha casa em Imperatriz. Urgente!", "classe": "cobranca"}
+{"texto": "Oi, pessoal, o app trava toda vez que tento abrir Agaurdo retorno.", "classe": "defeito"}
+{"texto": "o prazo de entrega para Goiânia passou e nada de chegar Obrigado.", "classe": "entrega"}
+{"texto": "seria óitmo ter modo escuro no site", "classe": "sugestao"}
+{"texto": "o painel poderia exportar relatórios em planilha Aguardo retorno.", "classe": "sugestao"}
+{"texto": "o som do relógio falha de vez em quando", "classe": "defeito"}
+{"texto": "Olá, paguei o boleto e o pagamento não foi baixado", "classe": "cobranca"}
+{"texto": "cehgou só uma parte do pedido Podem me ajudar?", "classe": "entrega"}
+{"texto": "Prezados, preciso redefinir a senha do app", "classe": "acesso"}
+{"texto": "Bom dia, preciso redefinir a senha do site Aliás, o carregador não liga mais depois da atualização.", "classe": "acesso"}
+{"texto": "Oi, pessoal, aparece um erro ao salvar e perco tudo Obrigado.", "classe": "defeito"}
+{"texto": "Boa tarde, muito bom o relógio, só faltou vir com capa Também como troco o e-mail cadastrado na conta.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o rastreio está parado há 3 dias Ah, e minha conta foi desconectada e não consigo acessar de novo. Obrigado.", "classe": "entrega"}
+{"texto": "Prezados, não reconheço essa cobrança no meu extrato", "classe": "cobranca"}
+{"texto": "Olá, aparece um erro ao salvar e perco tudo Obrigado.", "classe": "defeito"}
+{"texto": "Olá, não reconheço essa cobrança no meu extrato", "classe": "cobranca"}
+{"texto": "Oi, pessoal, como emito a segunda via do boleto", "classe": "cobranca"}
+{"texto": "o aplicativo diz que meu usuário não existe Ah, e adorei o atendimento, parabéns à equipe. Urgente!", "classe": "acesso"}
+{"texto": "o rastreio está parado há 10 dias", "classe": "entrega"}
+{"texto": "esqueci a sneha e o e-mail de recuperação não chega Obrigado.", "classe": "acesso"}
+{"texto": "Prezados, quero o estorno da cobrança de R$ 15,00 Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Olá, cancelei a assinatura mas continuam cobrando R$ 300", "classe": "cobranca"}
+{"texto": "Olá, como troco o e-mail cadastrado na conta Podem me ajudar?", "classe": "acesso"}
+{"texto": "Prezados, cancelei a assinatura mas continuam cobrando R$ 300 Urgente!", "classe": "cobranca"}
+{"texto": "Boa tarde, a bateria do celular descarrega em poucas horas", "classe": "defeito"}
+{"texto": "Oi, pessoal, quero alterar o endereço de entrega do fone", "classe": "entrega"}
+{"texto": "o site poderia exportar relatórios em planilha Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Boa tarde, a entrega foi feita no endereço errado", "classe": "entrega"}
+{"texto": "não consigo entrar na minha conta do app Aguardo retorno.", "classe": "acesso"}
+{"texto": "fui cobrado duas vezes R$ 49,90 no cartão", "classe": "cobranca"}
+{"texto": "cancelei a assinatura mas continuam cobrando R$ 89,90 Aliás, não consigo entrar na minha conta do site.", "classe": "cobranca"}
+{"texto": "Bom dia, o app diz que meu usuário não existe Aliás, o som do fone falha de vez em quando.", "classe": "acesso"}
+{"texto": "o fone esquenta demais e desliga sozinho Aguardo retorno.", "classe": "defeito"}
+{"texto": "Prezados, sugiro avisar por mensagem quando o pedido sair para entrega Outra coisa: preciso redefinir a senha do app.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, não reconheço essa cobrança no meu extrato Podem me ajudar?", "classe": "cobranca"}
+{"texto": "sugiro avisar por mensagem quando o pedido sair para entrega Aguardo retorno.", "classe": "sugestao"}
+{"texto": "chegou só uma parte do pedido", "classe": "entrega"}
+{"texto": "Olá, a bateria do relógio descarrega em poucas horas", "classe": "defeito"}
+{"texto": "Bom dia, o painel diz que meu usuário não eixste Obrigado.", "classe": "acesso"}
+{"texto": "preciso redefinir a senha do aplicativo", "classe": "acesso"}
+{"texto": "o app diz que meu usuário não existe Aguardo retorno.", "classe": "acesso"}
+{"texto": "Prezados, o som do celular falha de vez em quando", "classe": "defeito"}
+{"texto": "Bom dia, quero alterar o endereço de entrega do celular", "classe": "entrega"}
+{"texto": "Prezados, podiam incluir um filtro por preço na busca Ah, e o celular não liga mais depois da atualização. Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Boa tarde, o entregador não encontrou minha casa em Belém Obrigado.", "classe": "entrega"}
+{"texto": "como emito a segunda via do boleto", "classe": "cobranca"}
+{"texto": "o entregador não encontrou minha casa em Belém Urgente!", "classe": "entrega"}
+{"texto": "Prezados, o fone chegou com a tela rachada Aguardo retorno.", "classe": "defeito"}
+{"texto": "Oi, pessoal, o entregador não encontrou minha casa em Goiânia", "classe": "entrega"}
+{"texto": "a entrega foi feita no endereço errado Obrigado.", "classe": "entrega"}
+{"texto": "Boa tarde, seria ótimo ter modo escuro no aplicativo", "classe": "sugestao"}
+{"texto": "Olá, o prazo de entrega para Recife passou e nada de chegar", "classe": "entrega"}
+{"texto": "Boa tarde, o painel poderia exportar relatórios em planilha Também o pedido consta como entregue mas não recebi.", "classe": "sugestao"}
+{"texto": "Boa tarde, como troco o e-mail cadastrado na conta Urgente!", "classe": "acesso"}
+{"texto": "Bom dia, preciso redefinir a senha do site", "classe": "acesso"}
+{"texto": "a fatura veio com um valor diferente do combinado Obrigado.", "classe": "cobranca"}
+{"texto": "Boa tarde, o aplicativo diz que meu usuário não existe Obrigado.", "classe": "acesso"}
+{"texto": "Prezados, o desconto prometido não apareceu na fatura", "classe": "cobranca"}
+{"texto": "canceeli a assinatura mas continuam cobrando R$ 120 Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Bom dia, cancelei a assinatura mas continuam cobrando R$ 49,90", "classe": "cobranca"}
+{"texto": "o rastreio está praado há 3 dias Outra coisa: muito bom o fone, só faltou vir com capa.", "classe": "entrega"}
+{"texto": "seria ótimo ter modo escuro no painel Obrigado.", "classe": "sugestao"}
+{"texto": "como troco o e-mail cadastrado na conta Aliás, quero alterar o endereço de entrega do tablet.", "classe": "acesso"}
+{"texto": "Oi, pessoal, muito bom o celular, só faltou vir com capa", "classe": "sugestao"}
+{"texto": "quero o estorno da cobrança de R$ 300 Obrigado.", "classe": "cobranca"}
+{"texto": "Boa tarde, paguei o boleto e o pagamento não foi baixado Obrigado.", "classe": "cobranca"}
+{"texto": "Boa tarde, quero alterar o endereço de entrega do fone", "classe": "entrega"}
+{"texto": "o som do notebook falha de vez em quando Obrigado.", "classe": "defeito"}
+{"texto": "sugiro avisar por mensagem quando o pedido sair para entrega Urgente!", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o pedido consta como entregue mas não recebi Urgente!", "classe": "entrega"}
+{"texto": "Boa tarde, paguei o boleto e o pagamento não foi baixado Outra coisa: adorei o atendimento, parabéns à equipe. Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Olá, o prazo de entrega para Belém passou e nada de chegar Obrigado.", "classe": "entrega"}
+{"texto": "Prezados, meu pedido de celular não chegou e já faz 5 dias Obrigado.", "classe": "entrega"}
+{"texto": "Bom dia, o painel diz que meu usuário não existe Aguardo retorno.", "classe": "acesso"}
+{"texto": "Olá, o site trava toda vez que tento abrir Aguardo retorno.", "classe": "defeito"}
+{"texto": "Olá, muito bom o carregador, só faltou vir com capa", "classe": "sugestao"}
+{"texto": "Prezados, o aplicativo diz que meu usuário não existe Aliás, meu peddio de tablet não chegou e já faz 7 dias. Obrigado.", "classe": "acesso"}
+{"texto": "Bom dia, o som do relógio falha de vez em quando Outra coisa: seria ótimo ter modo escuro no app. Podem me ajudar?", "classe": "defeito"}
+{"texto": "Bom dia, o celular esquenta demais e desliga sozinho Também o pedido consta como entregue mas não recebi. Urgente!", "classe": "defeito"}
+{"texto": "Prezados, o som do celular falha de vez em quando Outra coisa: esqueci a senha e o e-mail de recuperação não chega. Podem me ajudar?", "classe": "defeito"}
+{"texto": "Olá, não consigo entrar na minha conta do app", "classe": "acesso"}
+{"texto": "Bom dia, seria ótimo ter modo escuro no aplicativo Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Prezados, gostaria de poder pagar com pix também Outra coisa: o site trava toda vez que tento abrir. Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Bom dia, o app trava toda vez que tento abrir Aguardo retorno.", "classe": "defeito"}
+{"texto": "o aplicativo poderia exportar relatórios em planilha", "classe": "sugestao"}
+{"texto": "muito bom o celular, só faltou vir com capa Obrigado.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o rastreio está parado há 15 dias Aguardo retorno.", "classe": "entrega"}
+{"texto": "o som do relógio falha de vez em quando Urgente!", "classe": "defeito"}
+{"texto": "Olá, cancelei a assinatura mas continuam cobrando R$ 49,90", "classe": "cobranca"}
+{"texto": "Prezados, podiam incluir um filtro por preço na busca Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Olá, não consigo entrar na minha conta do app Outra coisa: o rastreio está parado há 10 dias. Urgente!", "classe": "acesso"}
+{"texto": "Prezados, cancelei a assinatura mas continuam cobrando R$ 120 Também o som do tablet falha de vez em quando. Urgente!", "classe": "cobranca"}
+{"texto": "o prazo de entrega para Goiânia passou e nada de chegar Outra coisa: o relógio esquenta demais e desliga sozinho. Obrigado.", "classe": "entrega"}
+{"texto": "Prezados, o código de verificação não chegou no meu celular", "classe": "acesso"}
+{"texto": "Oi, pessoal, o app diz que meu usuário não existe Urgente!", "classe": "acesso"}
+{"texto": "Prezados, esqueci a senha e o e-mail de recuperação não chega Aliás, podiam incluir um filtro por preço na busca. Aguardo retorno.", "classe": "acesso"}
+{"texto": "Olá, não reconheço essa cobrança no meu extrato Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Oi, pessoal, como emito a segunda via do boleto Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Prezados, o carregador esquenta demais e desliga sozinho Ah, e quero alterar o endereço de entrega do tablet. Obrigado.", "classe": "defeito"}
+{"texto": "Prezados, como emito a segunda via do boleto Obrigado.", "classe": "cobranca"}
+{"texto": "Oi, pessoal, quero o estorno da cobarnça de R$ 89,90 Obrigado.", "classe": "cobranca"}
+{"texto": "Prezados, como troco o e-mail cadastrado na conta Também a fatura veio com um valor diferente do combinado. Obrigado.", "classe": "acesso"}
+{"texto": "como emito a segunda via do boleto Obrigado.", "classe": "cobranca"}
+{"texto": "Bom dia, o painel poderia exportar relatórios em planilha Obrigado.", "classe": "sugestao"}
+{"texto": "Boa tarde, como emito a segunda via do boleto Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Oi, pessoal, quero alterar o endereço de entrega do relógio", "classe": "entrega"}
+{"texto": "Prezados, aparece um erro ao salvar e perco tudo", "classe": "defeito"}
+{"texto": "Olá, quero alterar o endereço de entrega do tablet Também quero o estorno da cobrança de R$ 15,00.", "classe": "entrega"}
+{"texto": "a bateria do carregador descarrega em poucas horas Ah, e o desconto prometido não apareceu na fatura. Urgente!", "classe": "defeito"}
+{"texto": "Boa tarde, sugiro avsiar por mensagem quando o pedido sair para entrega", "classe": "sugestao"}
+{"texto": "podiam incluir um filtro por preço na busca Urgente!", "classe": "sugestao"}
+{"texto": "a bateria do celular descarrega em poucas horas Aliás, o desconto prometido não apareceu na fatura.", "classe": "defeito"}
+{"texto": "Olá, chegou só uma parte do pedido Outra coisa: queria que o painel lembrasse meu usuário no celular. Urgente!", "classe": "entrega"}
+{"texto": "Olá, paguei o boleto e o pagamento não foi baixado Urgente!", "classe": "cobranca"}
+{"texto": "a bateria do relógio descarrega em poucas horas Podem me ajudar?", "classe": "defeito"}
+{"texto": "Bom dia, meu pedido de carregador não chegou e já faz 10 dias Podem me ajudar?", "classe": "entrega"}
+{"texto": "Olá, a bateria do carregador descarrega em poucas horas Outra coisa: como troco o e-mail cadastrado na conta. Urgente!", "classe": "defeito"}
+{"texto": "Olá, cancelei a assinatura mas continuam cobrando R$ 300 Ah, e seria ótimo ter modo escuro no aplicativo. Urgente!", "classe": "cobranca"}
+{"texto": "Olá, preciso redefinir a senha do aplicativo", "classe": "acesso"}
+{"texto": "Bom dia, a entrega foi feita no endereço errado Aliás, adorei o atendimento, parabéns à equipe.", "classe": "entrega"}
+{"texto": "o rastreio está parado há 7 dias", "classe": "entrega"}
+{"texto": "Prezados, o fone esquenta demais e desliga sozinho Aguardo retorno.", "classe": "defeito"}
+{"texto": "o aplicativo diz que meu usuário não existe Urgente!", "classe": "acesso"}
+{"texto": "Olá, meu pedido de notebook não chegou e já faz 10 dias Podem me ajudar?", "classe": "entrega"}
+{"texto": "Prezados, o carregador chegou com a tela rachada", "classe": "defeito"}
+{"texto": "Prezados, como troco o e-mail cadastrado na conta", "classe": "acesso"}
+{"texto": "Prezados, cancelei a assinatura mas continuam cobrando R$ 120 Aliás, seria ótimo ter modo escuro no app. Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Boa tarde, não consigo entrar na minha conta do app Podem me ajudar?", "classe": "acesso"}
+{"texto": "Bom dia, o pedido consta como entrgeue mas não recebi", "classe": "entrega"}
+{"texto": "Olá, podiam incluir um filtro por preço na busca Outra coisa: o entregador não encontrou minha casa em Goiânia. Urgente!", "classe": "sugestao"}
+{"texto": "Boa tarde, meu pedido de celular não chegou e já faz 5 dias Obrigado.", "classe": "entrega"}
+{"texto": "Prezados, o desconto prometido não apareceu na fatura Obrigado.", "classe": "cobranca"}
+{"texto": "o código de verificação não chegou no meu celular Ah, e seria ótimo ter modo escuro no app.", "classe": "acesso"}
+{"texto": "Oi, pessoal, meu login foi bloqueado depois de várias tentativas Obrigado.", "classe": "acesso"}
+{"texto": "quero alterar o endereço de entrega do fone Outra coisa: paguei o boleto e o pagamento não foi baixado. Obrigado.", "classe": "entrega"}
+{"texto": "Prezados, o pedido consta como entregue mas não recebi", "classe": "entrega"}
+{"texto": "Olá, gostaria de poder pagar com pix também", "classe": "sugestao"}
+{"texto": "Boa tarde, esqueci a senha e o e-mail de recuperação não chega", "classe": "acesso"}
+{"texto": "o tablet chegou com a tela rachada Outra coisa: a fatura veio com um valor diferente do combinado. Aguardo retorno.", "classe": "defeito"}
+{"texto": "Oi, pessoal, paguei o boleto e o pagamento não foi baixado", "classe": "cobranca"}
+{"texto": "Oi, pessoal, quero o estorno da cobrança de R$ 120 Outra coisa: meu pedido de relógio não chegou e já faz 7 dias.", "classe": "cobranca"}
+{"texto": "Oi, pessoal, o pedido consta como entregue mas não recebi Podem me ajudar?", "classe": "entrega"}
+{"texto": "Bom dia, podiam incluir um filtro por preço na busca Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Olá, aparece um erro ao salvar e perco tudo", "classe": "defeito"}
+{"texto": "gostaria de poder pagar com pix também Aguardo retorno.", "classe": "sugestao"}
+{"texto": "adorei o atendimento, parabéns à equipe", "classe": "sugestao"}
+{"texto": "Olá, esqueci a senha e o e-mail de recuperação não chega Podem me ajudar?", "classe": "acesso"}
+{"texto": "muito bom o relógio, só faltou vir com capa", "classe": "sugestao"}
+{"texto": "Boa tarde, a bateria do tablet descarrega em poucas horas Podem me ajudar?", "classe": "defeito"}
+{"texto": "Olá, o pedido consta como entregue mas não recebi", "classe": "entrega"}
+{"texto": "Boa tarde, como emito a segunda via do bloeto", "classe": "cobranca"}
+{"texto": "Boa tarde, a bateria do notebook descarrega em poucas horas", "classe": "defeito"}
+{"texto": "Bom dia, muito bom o relógio, só faltou vir com capa Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Olá, a fatura veio com um valor diferente do combinado Urgente!", "classe": "cobranca"}
+{"texto": "Olá, fui cobrado duas vezes R$ 15,00 no cartão", "classe": "cobranca"}
+{"texto": "Prezados, meu login foi bloqueado depois de várias tentativas Podem me ajudar?", "classe": "acesso"}
+{"texto": "Boa tarde, o entregador não encontrou minha casa em Goiânia", "classe": "entrega"}
+{"texto": "Olá, o relógio esquenta demais e desliga sozinho Aguardo retorno.", "classe": "defeito"}
+{"texto": "Oi, pessoal, gostaria de poder pagar com pix também Urgente!", "classe": "sugestao"}
+{"texto": "Bom dia, o som do celular falha de vez em quando", "classe": "defeito"}
+{"texto": "muito bom o tablet, só faltou vir com capa Também não consigo entrar na minha conta do painel. Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Prezados, o relógio não liga mais depois da atualizçaão", "classe": "defeito"}
+{"texto": "o app poderia exportar relatórios em planilha", "classe": "sugestao"}
+{"texto": "Boa tarde, como troco o e-mail cadastrado na conta", "classe": "acesso"}
+{"texto": "Boa tarde, muito bom o tablet, só faltou vir com capa Ah, e o entregador não encontrou minha casa em Curitiba.", "classe": "sugestao"}
+{"texto": "Prezados, fui cobrado duas vezes R$ 300 no cartão Obrigado.", "classe": "cobranca"}
+{"texto": "Bom dia, cancelei a assinatura mas continuam cobrando R$ 300 Também o rastreio está parado há 7 dias.", "classe": "cobranca"}
+{"texto": "chegou só uma parte do pedido Obrigado.", "classe": "entrega"}
+{"texto": "quero o estorno da cobrança de R$ 89,90 Outra coisa: o notebook esquenta demais e desliga sozinho. Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Bom dia, fui cobrado duas vezes R$ 120 no cartão", "classe": "cobranca"}
+{"texto": "Boa tarde, sugiro avisar por mensagem quando o pedido sair para entrega Urgente!", "classe": "sugestao"}
+{"texto": "Olá, o código de verificação não chegou no meu celular Obrigado.", "classe": "acesso"}
+{"texto": "Bom dia, como troco o e-mail cadastrado na conta Podem me ajudar?", "classe": "acesso"}
+{"texto": "Olá, seria ótimo ter modo escuro no painel Obrigado.", "classe": "sugestao"}
+{"texto": "paguei o boleto e o pagamento não foi baixado Aguardo retorno.", "classe": "cobranca"}
+{"texto": "o aplicativo fecha sozinho quando abro a câmera", "classe": "defeito"}
+{"texto": "Boa tarde, o site trava toda vez que tento abrir Aliás, gostaria de poder pagar com pix também.", "classe": "defeito"}
+{"texto": "esqueci a senha e o e-mail de recuperação não chega Podem me ajudar?", "classe": "acesso"}
+{"texto": "Bom dia, o código de verificação não chegou no meu celular", "classe": "acesso"}
+{"texto": "Olá, paguei o boleto e o pagamento não foi baixado Aliás, o site podreia exportar relatórios em planilha.", "classe": "cobranca"}
+{"texto": "Prezados, meu pedido de celular não chegou e já faz 5 dias", "classe": "entrega"}
+{"texto": "a entrega foi feita no endereço errado Podem me ajudar?", "classe": "entrega"}
+{"texto": "Olá, o desconto prometido não apareceu na fatura", "classe": "cobranca"}
+{"texto": "Oi, pessoal, o código de verificação não chegou no meu celluar", "classe": "acesso"}
+{"texto": "Olá, o painel poderia exportar relatórios em planilha Urgente!", "classe": "sugestao"}
+{"texto": "Bom dia, chegou só uma parte do pedido Urgente!", "classe": "entrega"}
+{"texto": "o rastreio está praado há 15 dias Podem me ajudar?", "classe": "entrega"}
+{"texto": "Prezados, seria ótimo ter modo escuro no app Aliás, o desconto prometido não apareceu na fatura.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, muito bom o fone, só faltou vir com capa Também meu pedido de carregador não chegou e já faz 15 dias.", "classe": "sugestao"}
+{"texto": "Boa tarde, não consigo entrar na minha conta do app", "classe": "acesso"}
+{"texto": "Boa tarde, meu pedido de carregador não chegou e já faz 15 dias", "classe": "entrega"}
+{"texto": "o prazo de entrega para Goiânia passou e nada de chegar Também o aplicativo poderia exportar relatórios em planilha. Aguardo retorno.", "classe": "entrega"}
+{"texto": "Olá, o tablet chegou com a tela rachada Outra coisa: meu login foi bloqueado depois de várias tentativas. Obrigado.", "classe": "defeito"}
+{"texto": "Oi, pessoal, cancelei a assinatura mas continuam cobrando R$ 120 Urgente!", "classe": "cobranca"}
+{"texto": "Oi, pessoal, preciso redefinir a senha do painel Urgente!", "classe": "acesso"}
+{"texto": "Boa tarde, quero o estorno da cobrança de R$ 89,90 Ah, e seria ótimo ter modo escuro no site. Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Oi, pessoal, o app fecha sozinho quando abro a câmera Outra coisa: podiam incluir um filtro por preço na busca.", "classe": "defeito"}
+{"texto": "Olá, o prazo de entrega para Imperatriz passou e nada de chegar Ah, e o carregador chegou com a tela rachada.", "classe": "entrega"}
+{"texto": "preciso redefinir a senha do painel Urgente!", "classe": "acesso"}
+{"texto": "cancelei a assinatura mas continuam cobrando R$ 89,90 Aliás, o app trava toda vez que tento abrir.", "classe": "cobranca"}
+{"texto": "minha conta foi desconectada e não consigo acessar de novo", "classe": "acesso"}
+{"texto": "não reconheço essa cobrança no meu extrato Outra coisa: o app poderia exportar relatórios em planilha. Urgente!", "classe": "cobranca"}
+{"texto": "Boa tarde, quero o estorno da cobrança de R$ 120", "classe": "cobranca"}
+{"texto": "Prezados, quero alterar o endereço de entrega do tablet Urgente!", "classe": "entrega"}
+{"texto": "Prezados, o app fecha sozinho quando abro a câmera Obrigado.", "classe": "defeito"}
+{"texto": "gostaria de poder pagar com pix também Obrigado.", "classe": "sugestao"}
+{"texto": "a entrega foi feita no endereço errado", "classe": "entrega"}
+{"texto": "gostaria de poder pagar com pix também Aliás, o app fecha sozinho quando abro a câmera. Urgente!", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o aplicativo trava toda vez que tento abrir Aliás, adorei o atendimento, parabéns à equipe. Aguardo retorno.", "classe": "defeito"}
+{"texto": "Oi, pessoal, o pedido consta como entregue mas não recebi Obrigado.", "classe": "entrega"}
+{"texto": "Olá, a bateria do relógio descarrega em poucas horas Aguardo retorno.", "classe": "defeito"}
+{"texto": "a bateria do carregador descarrega em poucas horas Outra coisa: queria que o app lembrasse meu usuário no celular. Urgente!", "classe": "defeito"}
+{"texto": "como troco o e-mail cadastrado na conta Aguardo retorno.", "classe": "acesso"}
+{"texto": "Oi, pessoal, seria ótimo ter modo escuro no site Aguardo retorno.", "classe": "sugestao"}
+{"texto": "o app diz que meu usuário não existe", "classe": "acesso"}
+{"texto": "Bom dia, podiam incluir um filtro por preço na busca Urgente!", "classe": "sugestao"}
+{"texto": "Bom dia, o app poderia exportar relatórios em planilha Também esqueci a senha e o e-mail de recuperação não chega. Podem me ajudar?", "classe": "sugestao"}
+{"texto": "meu pedido de celular não chgeou e já faz 7 dias Ah, e o desconto prometido não apareceu na fatura.", "classe": "entrega"}
+{"texto": "Olá, o som do fone falha de vez em quando", "classe": "defeito"}
+{"texto": "Olá, quero o estorno da cobrança de R$ 49,90 Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Olá, o site trava toda vez que tento abrir Outra coisa: muito bom o notebook, só faltou vir com capa.", "classe": "defeito"}
+{"texto": "Prezados, adorei o atendimento, parabéns à equipe Aliás, o prazo de entrega para Belém passou e nada de chegar. Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Prezados, como emito a segunda via do boleto", "classe": "cobranca"}
+{"texto": "Oi, pessoal, a bateria do celular descarrega em poucas hroas Obrigado.", "classe": "defeito"}
+{"texto": "Prezados, preciso redefinir a senha do aplicativo Obrigado.", "classe": "acesso"}
+{"texto": "Bom dia, a entrega foi feita no endereço errado", "classe": "entrega"}
+{"texto": "gostaria de poder pagar com pix também Podem me ajudar?", "classe": "sugestao"}
+{"texto": "meu login foi bloqueado depois de várias tentativas Aguardo retorno.", "classe": "acesso"}
+{"texto": "Bom dia, meu pedido de carregador não chegou e já faz 7 dias", "classe": "entrega"}
+{"texto": "Oi, pessoal, meu pedido de tablet não chegou e já faz 15 dias Urgente!", "classe": "entrega"}
+{"texto": "Boa tarde, o notebook esquenta demais e desliga sozinho Urgente!", "classe": "defeito"}
+{"texto": "não reconheço essa cobrança no meu extrato Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Boa tarde, o painel poderia exportar relatórios em planilha Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Boa tarde, como emito a segunda via do boleto Ah, e aparece um erro ao salvar e perco tudo.", "classe": "cobranca"}
+{"texto": "Prezados, gostaria de poder pagar com pix também Aliás, o celular chegou com a tela rachada.", "classe": "sugestao"}
+{"texto": "Olá, o código de verificçaão não chegou no meu celular Obrigado.", "classe": "acesso"}
+{"texto": "o site diz que meu usuário não existe Aguardo retorno.", "classe": "acesso"}
+{"texto": "Oi, pessoal, o site diz que meu usuário não existe Ah, e paguei o boleto e o pagamento não foi baixado. Obrigado.", "classe": "acesso"}
+{"texto": "Oi, pessoal, a fatura veio com um valor diferente do combinado Aliás, minha conta foi desconectada e não consigo acessar de novo. Obrigado.", "classe": "cobranca"}
+{"texto": "o código de verifciação não chegou no meu celular Urgente!", "classe": "acesso"}
+{"texto": "o fone não liga mais depois da atualização Urgente!", "classe": "defeito"}
+{"texto": "Oi, pessoal, queria que o app lembrasse meu usuário no celualr Ah, e a fatura veio com um valor diferente do combinado.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, minha conta foi desconectada e não consigo acessar de novo", "classe": "acesso"}
+{"texto": "Prezados, seria ótimo ter modo escuro no site Outra coisa: a entrega foi feita no enedreço errado. Urgente!", "classe": "sugestao"}
+{"texto": "Bom dia, o prazo de entrega para Imperatriz passou e nada de chegar Obrigado.", "classe": "entrega"}
+{"texto": "Oi, pessoal, o relógio chegou com a tela rachada Podem me ajudar?", "classe": "defeito"}
+{"texto": "seria ótimo ter modo escuro no painel Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Boa tarde, paguei o boleto e o pagamento não foi baixado Outra coisa: aparece um erro ao salvar e perco tudo. Obrigado.", "classe": "cobranca"}
+{"texto": "Olá, o notebook chegou com a tela rachada Urgente!", "classe": "defeito"}
+{"texto": "Prezados, gostaria de poder pagar com pix também", "classe": "sugestao"}
+{"texto": "Bom dia, o prazo de entrega para Goiânia passou e nada de chegar", "classe": "entrega"}
+{"texto": "Bom dia, preciso redefinir a senha do aplicativo", "classe": "acesso"}
+{"texto": "Prezados, quero o estorno da cobrança de R$ 49,90 Outra coisa: a bateria do relógio descarrega em poucas horas.", "classe": "cobranca"}
+{"texto": "Prezados, não consigo entrar na minha conta do aplicativo", "classe": "acesso"}
+{"texto": "Olá, o pedido consta como entregue mas não recebi Aguardo retorno.", "classe": "entrega"}
+{"texto": "Prezados, o desconto prometido não apareceu na fatura Aliás, o rastreio está parado há 5 dias. Obrigado.", "classe": "cobranca"}
+{"texto": "Prezados, quero o estorno da cobrança de R$ 15,00 Ah, e quero alterar o endereço de entrega do tablet.", "classe": "cobranca"}
+{"texto": "Bom dia, muito bom o relógio, só faltou vir com capa Ah, e o prazo de entrega para Curitiba passou e nada de chegar. Urgente!", "classe": "sugestao"}
+{"texto": "Prezados, meu pedido de notebook não chegou e já faz 5 dias Aliás, quero o estorno da cobrança de R$ 300. Podem me ajudar?", "classe": "entrega"}
+{"texto": "Prezados, mniha conta foi desconectada e não consigo acessar de novo", "classe": "acesso"}
+{"texto": "muito bom o fone, só faltou vir com capa Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Prezados, paguei o boleto e o pagamento não foi baixado Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Boa tarde, o tablet esquenta demais e desliga sozinho Aliás, meu login foi bloqueado depois de várias tentativas.", "classe": "defeito"}
+{"texto": "Bom dia, o site diz que meu usuário não existe Urgente!", "classe": "acesso"}
+{"texto": "Olá, queria que o site lembrasse meu usuário no celular", "classe": "sugestao"}
+{"texto": "Oi, pessoal, a fautra veio com um valor diferente do combinado Urgente!", "classe": "cobranca"}
+{"texto": "Oi, pessoal, o rastreio está parado há 7 dias Urgente!", "classe": "entrega"}
+{"texto": "Boa tarde, o relógio esquenta demais e desliga sozinho", "classe": "defeito"}
+{"texto": "Bom dia, quero aletrar o endereço de entrega do fone Outra coisa: cancelei a assinatura mas continuam cobrando R$ 300.", "classe": "entrega"}
+{"texto": "Prezados, preciso redefinir a senha do painel", "classe": "acesso"}
+{"texto": "Boa tarde, o painel diz que meu usuário não exsite Outra coisa: seria ótimo ter modo escuro no painel. Urgente!", "classe": "acesso"}
+{"texto": "Olá, sugiro avisar por mensagem quando o pedido sair para entrega Ah, e o aplicativo trava toda vez que tento abrir.", "classe": "sugestao"}
+{"texto": "Prezados, como emito a segunda via do boleto Aliás, o carregador não liga mais depois da atualização.", "classe": "cobranca"}
+{"texto": "Olá, o site fecha sozinho quando abro a câmera Também gostaria de poder pagar com pix também.", "classe": "defeito"}
+{"texto": "a entrega foi feita no endereço errado Outra coisa: adorei o atendimento, parabéns à equipe. Obrigado.", "classe": "entrega"}
+{"texto": "Boa tarde, queria que o site lembrasse meu usuário no celular", "classe": "sugestao"}
+{"texto": "Bom dia, o código de verificação não chegou no meu celular Também como emito a segunda via do boleto. Podem me ajudar?", "classe": "acesso"}
+{"texto": "Oi, pessoal, o notebook chegou com a tela rachada Podem me ajudar?", "classe": "defeito"}
+{"texto": "esqueci a senha e o e-mail de recuperação não chega", "classe": "acesso"}
+{"texto": "Olá, cancelei a assinatura mas continuam cobrando R$ 89,90 Outra coisa: seria ótimo ter modo escuro no app. Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Oi, pessoal, como troco o e-mail cadastrado na conta", "classe": "acesso"}
+{"texto": "Bom dia, o aplicativo fecha sozinho quando abro a câmera", "classe": "defeito"}
+{"texto": "Oi, pessoal, o rastreio está parado há 3 dias Também paguei o boleto e o pagamento não foi baixado. Podem me ajudar?", "classe": "entrega"}
+{"texto": "Oi, pessoal, quero o estorno da cobrança de R$ 300 Urgente!", "classe": "cobranca"}
+{"texto": "o código de verificação não chegou no meu celular Urgente!", "classe": "acesso"}
+{"texto": "Boa tarde, fui cobrado duas vezes R$ 120 no cartão Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Prezados, sugiro avisar por mensagem quando o pedido sair para entrega Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Prezados, cancelei a assinatura mas continuam cobrando R$ 15,00 Outra coisa: o site diz que meu usuário não existe.", "classe": "cobranca"}
+{"texto": "o site poderia exportar relatórios em planilha Urgente!", "classe": "sugestao"}
+{"texto": "Bom dia, sugiro avisar por mensagem quando o pedido sair para entrega Ah, e como emito a segunda via do boleto. Urgente!", "classe": "sugestao"}
+{"texto": "Prezados, o painel trava toda vez que tento abrir Podem me ajudar?", "classe": "defeito"}
+{"texto": "adorei o atendimento, parabéns à equipe Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Boa tarde, o app diz que meu usuário não existe", "classe": "acesso"}
+{"texto": "Oi, pessoal, preciso redefinir a senha do aplicativo Aguardo retorno.", "classe": "acesso"}
+{"texto": "Oi, pessoal, o prazo de entrega para Belém passou e nada de chegar Aliás, o aplicativo fecha sozinho quando abro a câmera.", "classe": "entrega"}
+{"texto": "Boa tarde, o prazo de entrega para Curitiba passou e nada de chegar Aguardo retorno.", "classe": "entrega"}
+{"texto": "o painel fecha sozinho quando abro a câmera", "classe": "defeito"}
+{"texto": "Boa tarde, o ratsreio está parado há 15 dias", "classe": "entrega"}
+{"texto": "Boa tarde, miuto bom o notebook, só faltou vir com capa", "classe": "sugestao"}
+{"texto": "Olá, o rastreio está parado há 15 dias Também não consigo entrar na minha conta do painel. Urgente!", "classe": "entrega"}
+{"texto": "Prezados, seria ótimo ter modo escuro no app", "classe": "sugestao"}
+{"texto": "Bom dia, a fatura veio com um valor diferente do combinado Urgente!", "classe": "cobranca"}
+{"texto": "Boa tarde, podiam incluir um filtro por preço na busca Ah, e fui cobrado duas vezes R$ 300 no cartão.", "classe": "sugestao"}
+{"texto": "seria ótimo ter modo escuro no painel Outra coisa: o app trava toda vez que tento abrir. Urgente!", "classe": "sugestao"}
+{"texto": "Olá, não consigo entrar na minha conta do aplicativo Também não reconheço essa cobrança no meu extrato. Aguardo retorno.", "classe": "acesso"}
+{"texto": "Oi, pessoal, muito bom o carregador, só faltou vir com capa", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o notebook esquenta demais e desliga sozinho Obrigado.", "classe": "defeito"}
+{"texto": "Prezados, sugiro avisar por mensagem quando o pedido sair para entrega Aliás, fui cobrado duas vezes R$ 120 no cartão.", "classe": "sugestao"}
+{"texto": "Boa tarde, o rastreio está parado há 15 dias Obrigado.", "classe": "entrega"}
+{"texto": "Olá, queria que o app lembrasse meu usuário no celular Aliás, o desconto prometido não apareceu na fatura. Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Boa tarde, minha conta foi desconectada e não consigo acessar de novo Podem me ajudar?", "classe": "acesso"}
+{"texto": "Bom dia, o código de veriifcação não chegou no meu celular", "classe": "acesso"}
+{"texto": "seria ótimo ter modo escuro no painel Ah, e meu login foi bloqueado depois de várias tentativas. Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Prezados, o som do fone falha de vez em quando Também queria que o app lembrasse meu usuário no celular. Urgente!", "classe": "defeito"}
+{"texto": "meu pedido de carregador não chegou e já faz 10 dias Outra coisa: cancelei a assinatura mas continuam cobrando R$ 15,00.", "classe": "entrega"}
+{"texto": "Bom dia, o prazo de entrega para Recife passou e nada de chegar Ah, e o som do celular falha de vez em quando. Obrigado.", "classe": "entrega"}
+{"texto": "Bom dia, o notebook chegou com a tela rachada Obrigado.", "classe": "defeito"}
+{"texto": "Boa tarde, o relógio não liga mais depois da atualização Obrigado.", "classe": "defeito"}
+{"texto": "Olá, minha conta foi desconectada e não consigo acessar de novo", "classe": "acesso"}
+{"texto": "o carregador esquenta demais e desliga sozinho Outra coisa: minha conta foi desconectada e não consigo acessar de novo.", "classe": "defeito"}
+{"texto": "Prezados, adorei o atendimento, parabéns à equipe", "classe": "sugestao"}
+{"texto": "Bom dia, gostaria de poder pagar com pix também Urgente!", "classe": "sugestao"}
+{"texto": "Olá, a entrega foi feita no endereço errado", "classe": "entrega"}
+{"texto": "queria que o site lembrasse meu usuário no celular Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Boa tarde, cancelei a assinatura mas continuam cobrando R$ 89,90 Outra coisa: a entrega foi feita no endereço errado. Urgente!", "classe": "cobranca"}
+{"texto": "a entrega foi feita no endereço errado Também meu login foi bloqueado depois de várias tentativas. Aguardo retorno.", "classe": "entrega"}
+{"texto": "Bom dia, adorei o atendimento, parabéns à equipe Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Bom dia, esqueci a senha e o e-mail de recuperação não chega", "classe": "acesso"}
+{"texto": "Bom dia, a entrega foi feita no endereço errado Aguardo retorno.", "classe": "entrega"}
+{"texto": "Oi, pessoal, seria ótimo ter modo ecsuro no aplicativo Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Olá, o rastreio está parado há 10 dias Outra coisa: paguei o boleto e o pagamento não foi baixado. Obrigado.", "classe": "entrega"}
+{"texto": "Boa tarde, seria ótimo ter modo escuro no aplicativo Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Olá, quero o estorno da cobrança de R$ 15,00 Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Oi, pessoal, cancelei a assinatura mas continuam cobrando R$ 120 Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Olá, quero o estorno da cobrança de R$ 49,90 Ah, e o carregador esquenta demais e desliga sozinho. Obrigado.", "classe": "cobranca"}
+{"texto": "Oi, pessoal, o rastreio está parado há 10 dias Podem me ajudar?", "classe": "entrega"}
+{"texto": "como troco o e-mail cadastrado na conta Podem me ajudar?", "classe": "acesso"}
+{"texto": "Prezados, como emito a segunda via do boleto Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Prezados, o painel trava toda vez que tento abrir Aguardo retorno.", "classe": "defeito"}
+{"texto": "queria que o app lembrasse meu usuário no celular Também quero o estorno da cobrança de R$ 89,90. Obrigado.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o código de verificação não chegou no meu celular", "classe": "acesso"}
+{"texto": "Bom dia, a entrega foi feita no endereço errado Também o site diz que meu usuário não existe.", "classe": "entrega"}
+{"texto": "Bom dia, quero o estorno da cobrança de R$ 120 Obrigado.", "classe": "cobranca"}
+{"texto": "Bom dia, qeuro o estorno da cobrança de R$ 120", "classe": "cobranca"}
+{"texto": "o rastreio está parado há 3 dias Urgente!", "classe": "entrega"}
+{"texto": "Olá, quero o estorno da cobrança de R$ 49,90 Outra coisa: o prazo de entrega para Goiânia passou e nada de chegar. Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Boa tarde, o rastreio está parado há 15 dias Podem me ajudar?", "classe": "entrega"}
+{"texto": "Boa tarde, a fatura veio com um valor diferente do combinado", "classe": "cobranca"}
+{"texto": "a bateria do tablet descarrega em pouacs horas Aguardo retorno.", "classe": "defeito"}
+{"texto": "gostaria de poder pagar com pix também Urgente!", "classe": "sugestao"}
+{"texto": "Olá, o site fecha sozinho quando abro a câmera Urgente!", "classe": "defeito"}
+{"texto": "o aplicativo diz que meu usuário não existe Aguardo retorno.", "classe": "acesso"}
+{"texto": "a bateria do carregador descarrega em poucas horas", "classe": "defeito"}
+{"texto": "Olá, o site fecha sozinho quando abro a câmera Obrigado.", "classe": "defeito"}
+{"texto": "Bom dia, o fone não liga mais depois da atualização", "classe": "defeito"}
+{"texto": "Prezados, fui cobrado duas vezes R$ 15,00 no cartão", "classe": "cobranca"}
+{"texto": "Oi, pessoal, o painel fecha sozinho quando abro a câmera", "classe": "defeito"}
+{"texto": "Boa tarde, podiam incluir um filtro por preço na busca", "classe": "sugestao"}
+{"texto": "Boa tarde, o prazo de entrega para Curitiba passou e nada de chegar Obrigado.", "classe": "entrega"}
+{"texto": "Oi, pessoal, não consigo entrar na minha conta do painel Ah, e sugiro avisar por mensagem quando o pedido sair para entrega.", "classe": "acesso"}
+{"texto": "Bom dia, o app trava toda vez que tento abrir", "classe": "defeito"}
+{"texto": "Boa tarde, quero alterar o endereço de entrega do notebook", "classe": "entrega"}
+{"texto": "Oi, pessoal, o site poderia exportar relatórios em planilha Também o pedido consta como entregue mas não recebi. Urgente!", "classe": "sugestao"}
+{"texto": "Olá, o relógio chegou com a tela rachada", "classe": "defeito"}
+{"texto": "Prezados, sugiro aviasr por mensagem quando o pedido sair para entrega", "classe": "sugestao"}
+{"texto": "o aplicativo trvaa toda vez que tento abrir", "classe": "defeito"}
+{"texto": "Olá, como emito a segudna via do boleto Obrigado.", "classe": "cobranca"}
+{"texto": "Oi, pessoal, meu login foi bloqueado depois de várias tentativas Podem me ajudar?", "classe": "acesso"}
+{"texto": "Olá, o entregador não encontrou minha casa em Recife Também o tablet esquenta demais e desliga sozinho. Obrigado.", "classe": "entrega"}
+{"texto": "Olá, preciso redefinir a senha do painel", "classe": "acesso"}
+{"texto": "Bom dia, o app diz que meu usuário não existe", "classe": "acesso"}
+{"texto": "Bom dia, quero alterar o endereço de entrega do fone Podem me ajudar?", "classe": "entrega"}
+{"texto": "Oi, pessoal, o app diz que meu usuráio não existe", "classe": "acesso"}
+{"texto": "meu pedido de fone não chegou e já faz 10 dias Aliás, quero o estorno da cobrança de R$ 49,90. Aguardo retorno.", "classe": "entrega"}
+{"texto": "Bom dia, o som do fone falha de vez em quando Obrigado.", "classe": "defeito"}
+{"texto": "como troco o e-mail cadastrado na conta", "classe": "acesso"}
+{"texto": "Prezados, sugiro avisar por mensagem quando o pedido sair para entrega Urgente!", "classe": "sugestao"}
+{"texto": "Boa tarde, meu pedido de talbet não chegou e já faz 7 dias Outra coisa: como emito a segunda via do boleto.", "classe": "entrega"}
+{"texto": "Bom dia, quero o estorno da cobrança de R$ 300 Agaurdo retorno.", "classe": "cobranca"}
+{"texto": "como emito a segunda via do boelto Obrigado.", "classe": "cobranca"}
+{"texto": "Oi, pessoal, podiam incluir um filtro por preço na busca Outra coisa: quero o estorno da cobrança de R$ 89,90. Obrigado.", "classe": "sugestao"}
+{"texto": "Olá, preciso redefinir a senha do painel Ah, e aparece um erro ao salvar e perco tudo. Obrigado.", "classe": "acesso"}
+{"texto": "Bom dia, o desconto prometido não apareceu na fatura Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Olá, aparece um erro ao salvar e perco tudo Urgente!", "classe": "defeito"}
+{"texto": "gostaria de poder pagar com pix também Ah, e cancelei a assinatura mas continuam cobrando R$ 300.", "classe": "sugestao"}
+{"texto": "o pedido consta como entregue mas não recebi Também esqueci a senha e o e-mail de recuperação não chega.", "classe": "entrega"}
+{"texto": "Bom dia, esqueci a senha e o e-mail de recuperação não chega Outra coisa: muito bom o notebook, só faltou vir com capa. Obrigado.", "classe": "acesso"}
+{"texto": "o celular chegou com a tela rachada Aliás, não reconheço essa cobrança no meu extrato. Obrigado.", "classe": "defeito"}
+{"texto": "Prezados, sreia ótimo ter modo escuro no aplicativo", "classe": "sugestao"}
+{"texto": "o painel trava toda vez que tento abrir", "classe": "defeito"}
+{"texto": "Prezados, queria que o site lembrasse meu usuário no celular Aliás, não consigo entrar na minha conta do painel.", "classe": "sugestao"}
+{"texto": "Boa tarde, queria que o aplicativo lembrasse meu usuáiro no celular Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Bom dia, a fatura veio com um valor diferente do combinado Outra coisa: o prazo de entrega para Belém passou e nada de chegar. Obrigado.", "classe": "cobranca"}
+{"texto": "Bom dia, podiam incluir um filtro por preço na busca Outra coisa: o aplicativo fecha sozinho quando abro a câmera. Urgente!", "classe": "sugestao"}
+{"texto": "Boa tarde, minha conta foi desconectada e não consigo acessar de novo", "classe": "acesso"}
+{"texto": "esqueci a senha e o e-mail de recuperação não chega Também aparece um erro ao salvar e perco tudo. Aguardo retorno.", "classe": "acesso"}
+{"texto": "Bom dia, preciso redefinir a senha do app", "classe": "acesso"}
+{"texto": "Boa tarde, o tablet chegou com a tela rachada", "classe": "defeito"}
+{"texto": "o prazo de entrega para Imperatriz passou e nada de chegar", "classe": "entrega"}
+{"texto": "Prezados, minha conta foi desconectada e não consigo acessar de novo Outra coisa: a fatura veio com um valor diferente do combinado.", "classe": "acesso"}
+{"texto": "Bom dia, quero alterar o endereço de entrega do tablet Aliás, queria que o painel lembrasse meu usuário no celular.", "classe": "entrega"}
+{"texto": "o som do notebook falha de vez em quando", "classe": "defeito"}
+{"texto": "Olá, sugiro avisar por mensagem quando o pedido sair para entrega Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o rasrteio está parado há 5 dias", "classe": "entrega"}
+{"texto": "Bom dia, queria que o painel lembrasse meu usuário no celular Outra coisa: fui cobrado duas vezes R$ 120 no cartão. Urgente!", "classe": "sugestao"}
+{"texto": "Olá, o painel fecha sozinho quando abro a câmera", "classe": "defeito"}
+{"texto": "Prezados, o prazo de entrega para Curitiba passou e nada de chegar Também o carregador esquenta demais e desliga sozinho.", "classe": "entrega"}
+{"texto": "Oi, pessoal, meu pedido de tablet não chegou e já faz 5 dias Aliás, meu login foi bloqueado depois de várias tentativas. Podem me ajudar?", "classe": "entrega"}
+{"texto": "fui cobrado duas vezes R$ 89,90 no cartão", "classe": "cobranca"}
+{"texto": "Oi, pessoal, não reconheço essa cobrança no meu extrato Ah, e minha conta foi desconectada e não consigo acessar de novo.", "classe": "cobranca"}
+{"texto": "a fatura veio com um valor diferente do combinado Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Oi, pessoal, o entregador não encontrou minha casa em Imperatriz", "classe": "entrega"}
+{"texto": "Boa tarde, o fone não liga mais depois da atualização", "classe": "defeito"}
+{"texto": "Oi, pessoal, seria ótimo ter modo escuro no app Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Prezados, o site fecha sozinho quando abro a câmera Outra coisa: como troco o e-mail cadastrado na conta.", "classe": "defeito"}
+{"texto": "Bom dia, o prazo de entrega para Recife passou e nada de chegar", "classe": "entrega"}
+{"texto": "como emito a segunda via do boleto Urgente!", "classe": "cobranca"}
+{"texto": "Prezados, paguei o boleto e o pagamento não foi baixado", "classe": "cobranca"}
+{"texto": "Olá, não consigo entrar na minha conta do site Podem me ajudar?", "classe": "acesso"}
+{"texto": "paguei o boleto e o pagamento não foi baiaxdo", "classe": "cobranca"}
+{"texto": "meu pedido de notebook não chegou e já faz 3 dias Urgente!", "classe": "entrega"}
+{"texto": "Oi, pessoal, adorei o atendimento, parabéns à equipe Obrigado.", "classe": "sugestao"}
+{"texto": "Prezados, cancelei a assinatura mas continuam cobrando R$ 120 Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Oi, pessoal, esqueci a senha e o e-mail de recuperação não chega", "classe": "acesso"}
+{"texto": "o prazo de entrega para Goiânia passou e nada de chegar Também a bateria do tablet descarrega em poucas horas. Aguardo retorno.", "classe": "entrega"}
+{"texto": "o carregador esquenta demais e desliga sozinho Outra coisa: meu login foi bloqueado depois de várias tentativas.", "classe": "defeito"}
+{"texto": "Oi, pessoal, sugiro avisar por mensagem quando o pedido sair para entrega", "classe": "sugestao"}
+{"texto": "o som do celular falha de vez em quando Também como emito a segunda via do boleto. Obrigado.", "classe": "defeito"}
+{"texto": "Bom dia, o prazo de entrega para Belém passou e nada de chegar Podem me ajudar?", "classe": "entrega"}
+{"texto": "Bom dia, chegou só uma parte do pedido Aguardo retorno.", "classe": "entrega"}
+{"texto": "o entregador não encontrou minha casa em Imperatriz Aguardo retorno.", "classe": "entrega"}
+{"texto": "Boa tarde, aparece um erro ao salvar e perco tudo Ah, e o app poderia exportar relatórios em planilha. Podem me ajudar?", "classe": "defeito"}
+{"texto": "Boa tarde, o painel trava toda vez que tento abrir Podem me ajudar?", "classe": "defeito"}
+{"texto": "Boa tarde, a bateria do relógio descarrega em poucas horas Aliás, como emito a segunda via do boleto. Podem me ajudar?", "classe": "defeito"}
+{"texto": "Bom dia, como troco o e-mail cadastrado na conta Outra coisa: o entregador não encontrou mihna casa em Curitiba.", "classe": "acesso"}
+{"texto": "Prezados, a bateria do relógio descarrega em poucas horas Também não reconheço essa cobrança no meu extrato. Podem me ajudar?", "classe": "defeito"}
+{"texto": "Olá, como emito a segunda via do boleto Outra coisa: o rastreio está parado há 7 dias. Aguardo retorno.", "classe": "cobranca"}
+{"texto": "podiam incluir um filtro por preço na busca Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Prezados, meu pedido de celular não chegou e já faz 7 dias Também o desconto prometido não apareceu na fatura. Obrigado.", "classe": "entrega"}
+{"texto": "Olá, o desconto prometido não apareceu na fatura Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Prezados, minha conta foi desconectada e não consigo acessar de novo Podem me ajudar?", "classe": "acesso"}
+{"texto": "Olá, sugiro avisar por mensagem quando o pedido sair para entrega Obrigado.", "classe": "sugestao"}
+{"texto": "Boa tarde, o celular chegou com a tela racahda", "classe": "defeito"}
+{"texto": "Oi, pessoal, o desconto prometido não apareceu na fatura Ah, e o rastreio está parado há 5 dias.", "classe": "cobranca"}
+{"texto": "Oi, pessoal, preciso redefinir a senha do painel", "classe": "acesso"}
+{"texto": "Bom dia, adorei o atendimento, parabéns à equipe", "classe": "sugestao"}
+{"texto": "Oi, pessoal, podiam incluir um filtro por preço na busca Outra coisa: não consigo entrar na mihna conta do painel. Podem me ajudar?", "classe": "sugestao"}
+{"texto": "Boa tarde, o rastreio está parado há 10 dias Obrigado.", "classe": "entrega"}
+{"texto": "quero alterar o endereço de entrega do carregador", "classe": "entrega"}
+{"texto": "Oi, pessoal, a entrega foi feita no endereço errado Também como troco o e-mail cadastrado na conta. Aguardo retorno.", "classe": "entrega"}
+{"texto": "o entregador não encontrou minha casa em Belém", "classe": "entrega"}
+{"texto": "Boa tarde, não consigo entrar na minha conta do aplicativo Outra coisa: adorei o atendimento, parabéns à equipe.", "classe": "acesso"}
+{"texto": "Olá, meu login foi bloqueado depois de várias tentativas Urgente!", "classe": "acesso"}
+{"texto": "Bom dia, chegou só uma parte do pedido Obrigado.", "classe": "entrega"}
+{"texto": "Boa tarde, a bateria do celular descarrega em poucas horas Outra coisa: não consigo entrar na minha conta do aplicativo.", "classe": "defeito"}
+{"texto": "Bom dia, sugiro avisar por mensagem quando o pedido sair para entrega", "classe": "sugestao"}
+{"texto": "Olá, a fatura veio com um valor diferente do combinado Também a entrega foi feita no endereço errado. Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Boa tarde, quero o estorno da cobrança de R$ 89,90 Aliás, o notebook esquenta demais e desliga sozinho.", "classe": "cobranca"}
+{"texto": "Olá, cancelei a assinatura mas continuam cobrando R$ 89,90 Urgente!", "classe": "cobranca"}
+{"texto": "Prezados, meu pedido de fone não chegou e já faz 3 dias Ah, e queria que o aplicativo lembrasse meu usuário no celular. Aguardo retorno.", "classe": "entrega"}
+{"texto": "Boa tarde, muito bom o tablet, só faltou vir com capa", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o som do celular falha de vez em quando Ah, e adorei o atendimento, parabéns à equipe. Podem me ajudar?", "classe": "defeito"}
+{"texto": "não consigo entrar na minha conta do site", "classe": "acesso"}
+{"texto": "Prezados, o entregador não encontrou minha casa em Goiânia Aguardo retorno.", "classe": "entrega"}
+{"texto": "Bom dia, meu pedido de celular não chegou e já faz 15 dias Aguardo retorno.", "classe": "entrega"}
+{"texto": "podiam incluir um filtro por preço na busca Ah, e chegou só uma parte do pedido. Urgente!", "classe": "sugestao"}
+{"texto": "Olá, o notebook não liga mais depois da atualização", "classe": "defeito"}
+{"texto": "o site diz que meu usuário não existe", "classe": "acesso"}
+{"texto": "Boa tarde, chegou só uma parte do pedido", "classe": "entrega"}
+{"texto": "Oi, pessoal, não consigo entrar na minha conta do aplicativo Podem me ajudar?", "classe": "acesso"}
+{"texto": "Prezados, fui cobrado duas vezes R$ 15,00 no cartão Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Olá, queria que o aplicativo lembrasse meu usuário no celular Urgente!", "classe": "sugestao"}
+{"texto": "Boa tarde, o painel poderia exportar relatórios em planilha", "classe": "sugestao"}
+{"texto": "Bom dia, quero o estorno da cobrança de R$ 49,90", "classe": "cobranca"}
+{"texto": "Boa tarde, quero o estorno da cobrança de R$ 49,90", "classe": "cobranca"}
+{"texto": "como emito a segunda via do boleto Podem me ajudar?", "classe": "cobranca"}
+{"texto": "o app diz que meu usuário não exitse Urgente!", "classe": "acesso"}
+{"texto": "Prezados, sugiro avisar por mensagem quando o pedido sair para entrega Outra coisa: a entrega foi feita no endereço errado. Obrigado.", "classe": "sugestao"}
+{"texto": "Olá, o tablet esquenta demais e desliga sozinho", "classe": "defeito"}
+{"texto": "Bom dia, meu pedido de celular não chegou e já faz 3 dias Obrigado.", "classe": "entrega"}
+{"texto": "Boa tarde, muito bom o relógio, só faltou vir com capa", "classe": "sugestao"}
+{"texto": "Bom dia, aparcee um erro ao salvar e perco tudo Aguardo retorno.", "classe": "defeito"}
+{"texto": "Boa tarde, não reconheço essa cobrança no meu extrato", "classe": "cobranca"}
+{"texto": "Prezados, cancelei a assinatura mas continuam cobrando R$ 300", "classe": "cobranca"}
+{"texto": "a bateria do relógio descarrega em poucas horas", "classe": "defeito"}
+{"texto": "preciso redefinir a senha do app Ah, e cancelei a assinatura mas continuam cobrando R$ 89,90. Podem me ajudar?", "classe": "acesso"}
+{"texto": "o site fecha sozinho quando abro a câmera", "classe": "defeito"}
+{"texto": "Oi, pessoal, o relógio esquenta demais e desliga sozinho", "classe": "defeito"}
+{"texto": "Bom dia, o tablet chegou com a tela rachada Podem me ajudar?", "classe": "defeito"}
+{"texto": "o site fecha sozinho quando abro a câmera Obrigado.", "classe": "defeito"}
+{"texto": "Bom dia, preciso redefinir a senha do app Ah, e o desconto prometdio não apareceu na fatura. Podem me ajudar?", "classe": "acesso"}
+{"texto": "Bom dia, como emito a segunda via do boleto", "classe": "cobranca"}
+{"texto": "Bom dia, o site diz que meu usuário não existe Obrigado.", "classe": "acesso"}
+{"texto": "Prezados, queria que o app lembrasse meu usuário no celular Também o entregador não encontrou minha casa em Curitiba.", "classe": "sugestao"}
+{"texto": "Olá, gostaria de poder pagar com pix também Também fui cobrado duas vezes R$ 120 no cartão. Obrigado.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o código de verificação não chegou no meu celular Podem me ajudar?", "classe": "acesso"}
+{"texto": "Prezados, o desconto prometido não apareceu na fatura Urgente!", "classe": "cobranca"}
+{"texto": "Olá, não reconheço essa cobrança no meu extrato Obrigado.", "classe": "cobranca"}
+{"texto": "o celular não liga mais depois da atualização Ah, e meu pedido de tablet não chegou e já faz 7 dias.", "classe": "defeito"}
+{"texto": "Olá, seria ótimo ter modo escuro no site", "classe": "sugestao"}
+{"texto": "Boa tarde, o prazo de entrega para Belém passou e nada de cheagr", "classe": "entrega"}
+{"texto": "Olá, chegou só uma parte do pedido", "classe": "entrega"}
+{"texto": "Prezados, não consigo entrar na minha conta do site Aguardo retorno.", "classe": "acesso"}
+{"texto": "Prezados, gostaria de poder pagar com pix também Ah, e meu login foi bloqueado depois de várias tentativas.", "classe": "sugestao"}
+{"texto": "Bom dia, o apilcativo poderia exportar relatórios em planilha", "classe": "sugestao"}
+{"texto": "o desconto prometido não apareecu na fatura", "classe": "cobranca"}
+{"texto": "Olá, quero o estorno da cobrança de R$ 49,90", "classe": "cobranca"}
+{"texto": "o app trava toda vez que tento abrir Também chegou só uma parte do pedido.", "classe": "defeito"}
+{"texto": "o prazo de entrega para Imperatriz passou e nada de chegar Podem me ajudar?", "classe": "entrega"}
+{"texto": "Boa tarde, cancelei a assinatura mas continuam cobrando R$ 89,90 Obrigado.", "classe": "cobranca"}
+{"texto": "Olá, como troco o e-mail cadastrado na conta Aguardo retorno.", "classe": "acesso"}
+{"texto": "Prezados, seria ótimo ter modo escuro no site", "classe": "sugestao"}
+{"texto": "Bom dia, o app trava toda vez que tento abrir Obrigado.", "classe": "defeito"}
+{"texto": "o pedido consta como entregue mas não recebi Obrigado.", "classe": "entrega"}
+{"texto": "como emito a segunda via do boleto Aguardo retorno.", "classe": "cobranca"}
+{"texto": "aparece um erro ao salvar e perco tudo Também como troco o e-mail cadastrado na conta.", "classe": "defeito"}
+{"texto": "o rastreio está parado há 5 dias", "classe": "entrega"}
+{"texto": "Bom dia, seria ótimo ter modo escuro no painel", "classe": "sugestao"}
+{"texto": "Olá, não consigo entrar na minha conta do site Urgente!", "classe": "acesso"}
+{"texto": "Prezados, o prazo de entrega para Goiânia passou e nada de chegar Também podiam incluir um filtro por preço na busca.", "classe": "entrega"}
+{"texto": "Bom dia, o aplicativo trava toda vez que tento abrir", "classe": "defeito"}
+{"texto": "Prezados, não consigo entrar na minha conta do painel Ah, e o painel fecha sozinho quando abro a câmera.", "classe": "acesso"}
+{"texto": "Oi, pessoal, preciso redefinir a senha do app Podem me ajudar?", "classe": "acesso"}
+{"texto": "Oi, pessoal, não consigo entrar na minha conta do site", "classe": "acesso"}
+{"texto": "queria que o site lembrasse meu usuário no celular Urgente!", "classe": "sugestao"}
+{"texto": "Prezados, sugiro avisar por mensagem quando o pedido sair para entrega", "classe": "sugestao"}
+{"texto": "quero o estorno da cobrança de R$ 300 Urgente!", "classe": "cobranca"}
+{"texto": "Bom dia, queria que o site lembrasse meu usuário no celular Podem me ajudar?", "classe": "sugestao"}
+{"texto": "o aplicativo trava toda vez que tento abrir", "classe": "defeito"}
+{"texto": "não reconheço essa cobrança no meu extrato", "classe": "cobranca"}
+{"texto": "Bom dia, podiam incluir um filtro por preço na busca Também o rastreio está parado há 5 dias.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o som do tablet falha de vez em quando", "classe": "defeito"}
+{"texto": "Oi, pessoal, como emito a segunda via do boleto Ah, e meu login foi bloqueado depois de várias tentativas.", "classe": "cobranca"}
+{"texto": "Prezados, meu login foi bloqueado depois de várias tentativas", "classe": "acesso"}
+{"texto": "Olá, o celular chegou com a tela rachada Aguardo retorno.", "classe": "defeito"}
+{"texto": "Boa tarde, o entregador não encontrou minha casa em Curitiba Obrigado.", "classe": "entrega"}
+{"texto": "Boa tarde, adorei o atendimento, parabéns à equipe Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, o pedido consta como entregue mas não recebi Aguardo retorno.", "classe": "entrega"}
+{"texto": "Boa tarde, gostaria de pdoer pagar com pix também Urgente!", "classe": "sugestao"}
+{"texto": "o painel trava toda vez que tento abrir Aliás, cancelei a assinatura mas continuam cobrando R$ 15,00.", "classe": "defeito"}
+{"texto": "Bom dia, o tablet não liga mais depois da atualização", "classe": "defeito"}
+{"texto": "Oi, pessoal, cancelei a assinatura mas continuam cobrando R$ 49,90 Obrigado.", "classe": "cobranca"}
+{"texto": "Oi, pessoal, o código de verificação não chegou no meu celular Urgente!", "classe": "acesso"}
+{"texto": "o notebook não liga mais depois da atuailzação Ah, e quero o estorno da cobrança de R$ 15,00.", "classe": "defeito"}
+{"texto": "como troco o e-mail cadastrado na conta Obrigado.", "classe": "acesso"}
+{"texto": "Bom dia, gostaria de poder pagar com pix também Outra coisa: não reconheço essa cobrança no meu extrato. Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Olá, o painel trava toda vez que tento abrir Urgente!", "classe": "defeito"}
+{"texto": "o código de verificação não chegou no meu celular Obrigado.", "classe": "acesso"}
+{"texto": "Olá, o app trava toda vez que tento abrir", "classe": "defeito"}
+{"texto": "Bom dia, meu login foi bloqueado depois de várias tentativas", "classe": "acesso"}
+{"texto": "seria ótimo ter modo escuro no app Aguardo retorno.", "classe": "sugestao"}
+{"texto": "o prazo de entrega para Belém passou e nada de chegar Aguardo retorno.", "classe": "entrega"}
+{"texto": "Oi, pessoal, o pedido consta como entregue mas não recebi", "classe": "entrega"}
+{"texto": "Oi, pessoal, fui cobrado duas vezes R$ 89,90 no cartão", "classe": "cobranca"}
+{"texto": "aparece um erro ao salvar e perco tudo Aliás, o código de verificação não chegou no meu celular. Obrigado.", "classe": "defeito"}
+{"texto": "Oi, pessoal, a fatura veio com um valor diferente do combinado", "classe": "cobranca"}
+{"texto": "Boa tarde, o prazo de entrega para Recife passou e nada de chegar Urgente!", "classe": "entrega"}
+{"texto": "Boa tarde, quero alterar o endereço de entrega do celular", "classe": "entrega"}
+{"texto": "Oi, pessoal, o fone chegou com a tela rachada Aguardo retorno.", "classe": "defeito"}
+{"texto": "o desconto prometido não apareceu na fatura Urgente!", "classe": "cobranca"}
+{"texto": "cancelei a assinatura mas continuam cobrnado R$ 49,90 Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Olá, não consigo entrar na minha conta do site", "classe": "acesso"}
+{"texto": "Bom dia, aparece um erro ao salvar e perco tudo", "classe": "defeito"}
+{"texto": "Boa tarde, adorei o atendimento, parabéns à equipe", "classe": "sugestao"}
+{"texto": "o aplicativo trava toda vez que tento abrir Ah, e a entrega foi feita no endereço errado.", "classe": "defeito"}
+{"texto": "Olá, como troco o e-mail cadastrado na conta Obrigado.", "classe": "acesso"}
+{"texto": "Prezados, chegou só uma parte do pedido Aliás, o tablet esquenta demais e desliga sozinho. Aguardo retorno.", "classe": "entrega"}
+{"texto": "o celular esquenta demais e desliga sozinho", "classe": "defeito"}
+{"texto": "o fone chegou com a tela rachada Urgente!", "classe": "defeito"}
+{"texto": "o desconto prometido não apareceu na fatura Obrigado.", "classe": "cobranca"}
+{"texto": "Prezados, como troco o e-mail cadastrado na conta Aguardo retorno.", "classe": "acesso"}
+{"texto": "aparece um erro ao salvar e perco tudo Obrigado.", "classe": "defeito"}
+{"texto": "o app trava toda vez que tento abrir", "classe": "defeito"}
+{"texto": "Oi, pessoal, esqueci a senha e o e-mail de recuperação não chega Urgente!", "classe": "acesso"}
+{"texto": "o notebook chegou com a tela rachada Obrigado.", "classe": "defeito"}
+{"texto": "meu login foi bloqueado depois de váiras tentativas Também a fatura veio com um valor diferente do combinado.", "classe": "acesso"}
+{"texto": "Prezados, seria ótimo ter modo escuro no site Outra coisa: preciso redefinir a senha do app.", "classe": "sugestao"}
+{"texto": "Olá, o som do celular falha de vez em quando Urgente!", "classe": "defeito"}
+{"texto": "Prezados, o painel fecha sozinho quando abro a câmera Aguardo retorno.", "classe": "defeito"}
+{"texto": "Oi, pessoal, o site poderia exportar relatórios em planilha Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Prezados, a bateria do relógio descarrega em poucas horas", "classe": "defeito"}
+{"texto": "Boa tarde, muito bom o fone, só faltou vir com capa", "classe": "sugestao"}
+{"texto": "Boa tarde, a entrega foi feita no endreeço errado Podem me ajudar?", "classe": "entrega"}
+{"texto": "Oi, pessoal, o entregador não encontrou minha casa em Curitiba", "classe": "entrega"}
+{"texto": "Bom dia, o pedido consta como entregue mas não recebi", "classe": "entrega"}
+{"texto": "Prezados, podiam incluir um filtro por preço na busca Urgente!", "classe": "sugestao"}
+{"texto": "Boa tarde, o site diz que meu uusário não existe Obrigado.", "classe": "acesso"}
+{"texto": "Boa tarde, a etnrega foi feita no endereço errado", "classe": "entrega"}
+{"texto": "o prazo de entrega para Imperatriz passou e nada de chegar Obrigado.", "classe": "entrega"}
+{"texto": "Bom dia, paguei o boleto e o pagamento não foi baixado Urgente!", "classe": "cobranca"}
+{"texto": "Bom dia, o app trava toda vez que tneto abrir Também o rastreio está parado há 7 dias. Urgente!", "classe": "defeito"}
+{"texto": "Oi, pessoal, chegou só uma parte do pedido", "classe": "entrega"}
+{"texto": "Boa tarde, aparece um erro ao salvar e perco tudo", "classe": "defeito"}
+{"texto": "Boa tarde, podiam incluir um filtro por preço na busca Outra coisa: como emito a segunda via do boleto.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, a entrega foi feita no endereço errado Ah, e paguei o boleto e o pagamento não foi baixado. Urgente!", "classe": "entrega"}
+{"texto": "cancleei a assinatura mas continuam cobrando R$ 49,90", "classe": "cobranca"}
+{"texto": "preciso redefinir a senha do app", "classe": "acesso"}
+{"texto": "a fatura veio com um valor diferente do combinado", "classe": "cobranca"}
+{"texto": "Oi, pessoal, queria que o aplicativo lembrasse meu usuário no celular Ah, e quero alterar o endereço de entrega do celular.", "classe": "sugestao"}
+{"texto": "cancelei a assinatura mas continuam cobrando R$ 15,00 Outra coisa: o tablet esquenta demais e desliga sozinho. Urgente!", "classe": "cobranca"}
+{"texto": "Boa tarde, o rastreio está parado há 3 dias Urgente!", "classe": "entrega"}
+{"texto": "Olá, não reconheço essa cobrança no meu extrato Também meu pedido de fone não chegou e já faz 10 dias. Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Prezados, o código de verificação não chegou no meu celular Urgente!", "classe": "acesso"}
+{"texto": "Prezados, o entregador não encontrou minha casa em Goiânia", "classe": "entrega"}
+{"texto": "Oi, pessoal, não consigo entrar na minha conta do app Aliás, aparece um erro ao salvar e perco tudo. Aguardo retorno.", "classe": "acesso"}
+{"texto": "Boa tarde, paguei o boleto e o pagamento não foi baixado Urgente!", "classe": "cobranca"}
+{"texto": "Boa tarde, como emito a segunda via do boleto", "classe": "cobranca"}
+{"texto": "Boa tarde, cancelei a assinatura mas continuam cobrando R$ 49,90 Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Boa tarde, preciso redefinir a senha do painel Ah, e quero alterar o endereço de entrega do celular. Podem me ajudar?", "classe": "acesso"}
+{"texto": "o carregador chegou com a tela rachada", "classe": "defeito"}
+{"texto": "Prezados, o site trava toda vez que tento abrir Aliás, quero alterar o endereço de enrtega do fone. Urgente!", "classe": "defeito"}
+{"texto": "o rastreio está parado há 10 dias Podem me ajudar?", "classe": "entrega"}
+{"texto": "o painel poderia exportar relatórios em planilha Ah, e não consigo entrar na minha conta do painel. Obrigado.", "classe": "sugestao"}
+{"texto": "Oi, pessoal, chegou só uma parte do pedido Também o código de verificação não chegou no meu celular. Obrigado.", "classe": "entrega"}
+{"texto": "Olá, seria ótimo ter modo escuro no aplicativo Obrigado.", "classe": "sugestao"}
+{"texto": "o celular esquenta demais e desliga sozinho Urgente!", "classe": "defeito"}
+{"texto": "Olá, adorei o atendimento, parabéns à euqipe Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Prezados, a bateria do relógio descarrega em poucas hroas Urgente!", "classe": "defeito"}
+{"texto": "o código de verificação não chegou no meu celular Aguardo retorno.", "classe": "acesso"}
+{"texto": "Bom dia, o carregador não liga mais depois da atualização", "classe": "defeito"}
+{"texto": "Prezados, não consigo entrar na minha cnota do painel", "classe": "acesso"}
+{"texto": "Boa tarde, o prazo de entrega para Imperatriz passou e nada de chegar Ah, e como emito a segunda via do boleto. Podem me ajudar?", "classe": "entrega"}
+{"texto": "Bom dia, seria ótimo ter modo escuro no site Aguardo retorno.", "classe": "sugestao"}
+{"texto": "Bom dia, podiam incluir um filtro por preço na busca", "classe": "sugestao"}
+{"texto": "Olá, quero o estorno da cobrança de R$ 89,90 Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Oi, pessoal, sugiro avisar por mensagem quando o pedido sair para entrega Aguardo retorno.", "classe": "sugestao"}
+{"texto": "paguei o boleto e o pagamento não foi baixado Podem me ajudar?", "classe": "cobranca"}
+{"texto": "Olá, muito bom o tablet, só faltou vir com capa Aguardo retorno.", "classe": "sugestao"}
+{"texto": "o aplicativo trava toda vez que tento abrir Aguardo retorno.", "classe": "defeito"}
+{"texto": "Olá, adorei o atendimento, parabéns à equipe", "classe": "sugestao"}
+{"texto": "Boa tarde, paguei o boleto e o pagamento não foi baixado", "classe": "cobranca"}
+{"texto": "Oi, pessoal, muito bom o celular, só faltou vir com capa Também o carregador não liga mais depois da atualização.", "classe": "sugestao"}
+{"texto": "Bom dia, podiam incluir um filtro por preço na busca Também minha conta foi desconectada e não consigo acessar de novo.", "classe": "sugestao"}
+{"texto": "Bom dia, como troco o e-mail cadastrado na conta Urgente!", "classe": "acesso"}
+{"texto": "a fatura veio com um valor diferente do combinado Outra coisa: muito bom o tablet, só faltou vir com capa.", "classe": "cobranca"}
+{"texto": "meu login foi bloqueado depois de várias tentativas Ah, e o tablet esquenta demais e desliga sozinho. Podem me ajudar?", "classe": "acesso"}
+{"texto": "Bom dia, o código de verificação não cheogu no meu celular Obrigado.", "classe": "acesso"}
+{"texto": "Prezados, fui cobrado duas vezes R$ 300 no cartão", "classe": "cobranca"}
+{"texto": "Prezados, a fatura veio com um valor diferente do combinado Urgente!", "classe": "cobranca"}
+{"texto": "Prezados, fui cobrado duas vezes R$ 120 no cartão", "classe": "cobranca"}
+{"texto": "Olá, sugiro avisar por mensagem quando o pedido sair para entrega", "classe": "sugestao"}
+{"texto": "Boa tarde, o painel trava toda vez que tento abrir Obrigado.", "classe": "defeito"}
+{"texto": "o prazo de entrega para Belém passou e nada de chegar Urgente!", "classe": "entrega"}
+{"texto": "quero alterar o endereço de entrega do celular", "classe": "entrega"}
+{"texto": "Olá, quero alterar o endereço de enterga do tablet", "classe": "entrega"}
+{"texto": "Prezados, meu pedido de carregador não chegou e já faz 3 dias Obrigado.", "classe": "entrega"}
+{"texto": "Olá, como troco o e-mail cadastrado na conta Urgente!", "classe": "acesso"}
+{"texto": "Olá, não consigo entrar na minha conta do site Também o rastreio está parado há 15 dias. Aguardo retorno.", "classe": "acesso"}
+{"texto": "Oi, pessoal, queria que o aplicativo lembrasse meu usuário no celular", "classe": "sugestao"}
+{"texto": "quero o estorno da cobrança de R$ 120 Também o carregador não liga mais depois da atualização. Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Oi, pessoal, o aplicativo diz que meu usuário não existe Aguardo retorno.", "classe": "acesso"}
+{"texto": "Bom dia, o celular chegou com a tela rachada Outra coisa: podiam incluir um filtro por preço na busca.", "classe": "defeito"}
+{"texto": "Bom dia, o carregador esquenta demais e desliga sozinho", "classe": "defeito"}
+{"texto": "Prezados, esqueci a senha e o e-mail de recuperação não chega", "classe": "acesso"}
+{"texto": "Bom dia, a entrega foi feita no endereço errado Urgente!", "classe": "entrega"}
+{"texto": "Prezados, não reconheço essa cobrança no meu extrato Aguardo retorno.", "classe": "cobranca"}
+{"texto": "Prezados, a bateria do tablet descarrega em poucas horas Urgente!", "classe": "defeito"}
+{"texto": "Olá, queria que o app lembrasse meu usuário no celular Obrigado.", "classe": "sugestao"}
+{"texto": "Boa tarde, não consigo entrar na minha conta do site Também o app poderia exportar relatórios em planilha.", "classe": "acesso"}
+{"texto": "Olá, a entrega foi feita no endereço errado Podem me ajudar?", "classe": "entrega"}
+{"texto": "meu login foi bloqueado depois de várias tentativas", "classe": "acesso"}
+{"texto": "Boa tarde, aparece um erro ao salvar e perco tudo Urgente!", "classe": "defeito"}
+{"texto": "Bom dia, muito bom o notebook, só faltou vir com capa", "classe": "sugestao"}
+{"texto": "adorei o atendimento, parabéns à equipe Outra coisa: meu login foi bloqueado depois de várias tentativas. Podem me ajudar?", "classe": "sugestao"}
+{"texto": "o pedido consta como entregue mas não recebi", "classe": "entrega"}
+{"texto": "Oi, pessoal, esqueci a senha e o e-mail de recuperação não chega Outra coisa: o entregador não encontrou minha casa em Imperatriz.", "classe": "acesso"}
+{"texto": "Bom dia, não reconheço essa cobrança no meu extrato Aguardo retorno.", "classe": "cobranca"}
+{"texto": "seria ótimo ter modo escuro no app", "classe": "sugestao"}
+{"texto": "Bom dia, o painel fecha sozinho quando abro a câmera", "classe": "defeito"}
+{"texto": "Bom dia, o reólgio chegou com a tela rachada Obrigado.", "classe": "defeito"}

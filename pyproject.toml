@@ -1,0 +1,14 @@
+[project]
+name = "triagem-chamados"
+version = "1.0.0"
+description = "Classifica mensagens de suporte com Naive Bayes e regressão logística escritos do zero, com abstenção por confiança"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+triagem = "triagem.cli:main"
+
+[tool.setuptools]
+packages = ["triagem"]
