@@ -2,7 +2,7 @@
 
 Classificador de mensagens de suporte (acesso, cobrança, entrega, defeito, sugestão) com **Naive Bayes** e **regressão logística escritos do zero** (só biblioteca padrão de Python), comparados a duas linhas de base, com validação cruzada, matriz de confusão e uma política de **"na dúvida, encaminhar para um humano"**.
 
-> Desenvolvido por mim com o auxílio do Claude Code. Eu defini o escopo, revisei e estudei o código; o guia `docs/ESTUDO.md` explica cada conceito. **Os dados são sintéticos** (gerados por modelos de frase), então os números abaixo servem para comparar métodos, não para prometer desempenho em dados reais.
+> Eu defini o escopo, revisei e estudei o código; o guia `docs/ESTUDO.md` explica cada conceito. **Os dados são sintéticos** (gerados por modelos de frase), então os números abaixo servem para comparar métodos, não para prometer desempenho em dados reais.
 
 ## Para que serve (em termos simples)
 Uma empresa recebe milhares de mensagens de clientes ("não consigo entrar na conta", "fui cobrado duas vezes"). Alguém precisa ler cada uma e mandar para o setor certo. Este projeto **faz essa leitura automaticamente** e, mais importante, **diz o quanto está seguro da resposta**: quando a confiança é baixa, em vez de chutar, ele manda a mensagem para uma pessoa. É assim que sistemas de IA úteis funcionam na prática: a máquina resolve o que é claro e o humano fica com o que é duvidoso.
